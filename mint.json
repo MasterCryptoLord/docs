@@ -5,15 +5,26 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+
+
+"modeToggle": {
+  "default": "dark",
+  "isHidden": true
+}
+
+
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#FCFC03",
+    "light": "#FCFC03",
     "dark": "#FCFC03",
     "anchors": {
       "from": "#FCFC03",
       "to": "#FCFC03"
     }
   },
+
+  
   "topbarLinks": [
     {
       "name": "Support",

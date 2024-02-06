@@ -63,7 +63,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "UserDashboard",
+        "Quickstart",
         "NFTViewer"
       ]
     },

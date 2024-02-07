@@ -68,14 +68,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Guide",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "guide/markdown",
+        "guide/code",
+        "guide/images",
+        "guide/settings",
+        "guide/navigation",
+        "guide/reusable-snippets"
       ]
     },
     {

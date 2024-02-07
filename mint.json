@@ -63,8 +63,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstarta",
-        "development"
+        "login",
+        "login1"
       ]
     },
     {

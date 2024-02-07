@@ -79,12 +79,6 @@
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/#"
-      ]
-    },
-    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",

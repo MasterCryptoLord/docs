@@ -44,12 +44,12 @@
   "anchors": [
     {
       "name": "Walkthrough",
-      "icon": "book-open-cover",
+      "icon": "tutorial",
       "url": "https://twitter.com/Blast_Fi/status/1755269794872394232"
     },
     {
       "name": "Community",
-      "icon": "slack",
+      "icon": "telegram",
       "url": "https://t.me/Blast_Fi"
     },
     {

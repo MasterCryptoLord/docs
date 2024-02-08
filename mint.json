@@ -19,7 +19,7 @@
     "light": "#FCFC03",
     "dark": "#FCFC03",
     "anchors": {
-      "from": "#FFFFFF",
+      "from": "#000000",
       "to": "#FCFC03"
     }
   },
@@ -62,9 +62,9 @@
     {
       "group": "Guide",
       "pages": [
-        "guide/markdown",
+        "guide/login",
         "guide/staking",
-        "guide/images",
+        "guide/leadearboard",
         "guide/settings",
         "guide/navigation",
         "guide/reusable-snippets"

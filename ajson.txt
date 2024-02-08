@@ -35,6 +35,12 @@
     "name": "Dashboard",
     "url": "https://blastfi.io/"
   },
+  "tabs": [
+    {
+      "name": ".",
+      "url": "#"
+    }
+  ],
   "anchors": [
     {
       "name": "Walkthrough",

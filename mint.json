@@ -71,11 +71,11 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Info",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "info/FAQ",
+        "endpoint/create",
+        "endpoint/delete"
       ]
     }
   ],

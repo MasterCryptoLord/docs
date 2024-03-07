@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "BlastFi",
+  "name": "Zaibot",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.svg"
@@ -28,28 +28,28 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@blastfi.io"
+      "url": "mailto:team@zaibot.io"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://blastfi.io/"
+    "url": "https://zaibot.io/"
   },
   "anchors": [
     {
-      "name": "Walkthrough",
-      "icon": "video",
-      "url": "https://twitter.com/Blast_Fi/status/1755269794872394232"
+      "name": "X (Twitter)",
+      "icon": "x",
+      "url": "https://x.com/zaibotio/"
     },
     {
       "name": "Community",
       "icon": "telegram",
-      "url": "https://t.me/Blast_Fi"
+      "url": "https://t.me/zaibotpublic"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://docs.blastfi.io"
+      "url": "https://docs.zaibot.io"
     }
   ],
   "navigation": [
@@ -79,8 +79,8 @@
     }
   ],
   "footerSocials": {
-    "website": "https://www.blastfi.io/",
-    "telegram": "https://t.me/Blast_Fi",
-    "twitter": "https://twitter.com/Blast_Fi/"
+    "website": "https://www.zaibot.io/",
+    "telegram": "https://t.me/zaibotpublic",
+    "twitter": "https://x.com/zaibotio/"
   }
 }
